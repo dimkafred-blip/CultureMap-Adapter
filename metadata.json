@@ -1,0 +1,5 @@
+{
+  "name": "The Culture Map Adapter",
+  "description": "An AI-powered application that adapts English text to align with French, Italian, or American cultural mentalities based on Erin Meyer's 'The Culture Map' framework.",
+  "requestFramePermissions": []
+}
